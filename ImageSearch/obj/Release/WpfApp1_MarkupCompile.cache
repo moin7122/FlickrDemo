@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Repo_GIT\FlickrDemo\ImageSearch\obj\Debug\
+D:\Repo_GIT\FlickrDemo\ImageSearch\obj\Release\
 WpfApp1
 none
 false
-DEBUG;TRACE
+TRACE
 D:\Repo_GIT\FlickrDemo\ImageSearch\App.xaml
 1-1711142684
 
 131972502424
-171182600864
+16779579506
 View\MainWindow.xaml;
 
-False
+True
 
